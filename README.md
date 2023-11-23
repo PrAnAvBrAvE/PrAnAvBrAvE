@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **patilpranav8055@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12g1B4lCwpCEs8sSBBiPiK2Tp4G2hjtO6/view](https://drive.google.com/file/d/12g1B4lCwpCEs8sSBBiPiK2Tp4G2hjtO6/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/12g1B4lCwpCEs8sSBBiPiK2Tp4G2hjtO6/view](https://drive.google.com/file/d/1BKELW5ICGUGRLt5D3JljteTC3bQdWcP7/view?usp=drive_link)
 
 - ⚡ Fun fact **versatile person, anime lover**
 
