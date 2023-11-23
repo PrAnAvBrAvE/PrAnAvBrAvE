@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [(https://pranavbrave.netlify.app/)]
+- 👨‍💻 All of my projects are available at (https://pranavbrave.netlify.app/)
 
 - 💬 Ask me about **DSA**
 
