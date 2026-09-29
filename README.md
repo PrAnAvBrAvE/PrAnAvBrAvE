@@ -20,7 +20,7 @@ Software Engineer | Full-Stack Developer | React.js | Node.js | NestJS | GraphQL
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer with 1.2+ years of experience** building and maintaining production applications across **logistics, banking, and enterprise business domains**.
+I'm a **Software Engineer with 1.2+ years of experience** in software Industry.
 
 I work across the full development lifecycle — from understanding requirements and designing APIs to building React applications, integrating databases, debugging production issues, and supporting features after deployment.
 
