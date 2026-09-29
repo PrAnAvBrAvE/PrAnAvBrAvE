@@ -121,7 +121,6 @@ I regularly practice **Data Structures & Algorithms** and focus on understanding
 * 💻 **200+ DSA problems solved**
 * 🔥 LeetCode: [pranav__1007](https://leetcode.com/pranav__1007)
 * 🧩 GeeksforGeeks: [patilpranav8055](https://www.geeksforgeeks.org/user/patilpranav8055/)
-* 📌 Topics: Arrays, Strings, Hashing, Sliding Window, Prefix Sum, Two Pointers, Binary Search, Linked Lists, Trees and more.
 
 ---
 
