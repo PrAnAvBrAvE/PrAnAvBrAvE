@@ -125,30 +125,6 @@ I regularly practice **Data Structures & Algorithms** and focus on understanding
 
 ---
 
-## 🚧 What I'm Currently Working On
-
-* 🏗️ Building a production-style **Full-Stack application**
-* ⚛️ Deepening my knowledge of **React + Apollo Client**
-* 🚀 Improving backend architecture with **NestJS + GraphQL**
-* 🗄️ Working with **PostgreSQL, MongoDB and TypeORM**
-* 🐳 Learning and applying **Docker & Redis**
-* 🧠 Strengthening **DSA and problem-solving skills**
-* ☁️ Exploring scalable application architecture and AWS
-
----
-
-## 📌 Featured Projects
-
-### 🚀 DevFlow — Full-Stack Developer Platform
-
-A production-style full-stack application designed to understand how modern web applications are architected.
-
-**Tech:** React.js • TypeScript • Apollo Client • GraphQL • NestJS • PostgreSQL • TypeORM • Redis • Docker
-
-> More projects coming soon 🚀
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
